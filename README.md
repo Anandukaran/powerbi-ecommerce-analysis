@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Analytics Dashboard — Power BI
+# 🛒 E-Commerce Analytics Power BI Report
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
