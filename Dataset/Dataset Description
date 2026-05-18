@@ -7,4 +7,4 @@ Promotions
 This dataset contains 61 records of promotional campaigns run during October 2019. 
 Each entry links a unique promotion ID to a specific product, the date the promotion was active,
 and the discount percentage offered. It is used alongside the sales data to evaluate the effectiveness 
-of promotions on purchasing decisions and overall revenue.AskSonnet 4.6
+of promotions on purchasing decisions and overall revenue
