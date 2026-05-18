@@ -228,7 +228,7 @@ In addition to the core tables, the data model includes:
 |---|---|
 | Peak Hour | 3 PM |
 | Peak Day | Friday |
-| Max Sessions | 158K (+57.5% above average) |
+| Max Sessions | 158K (+57.5% Spike in November) |
 
 **Visuals included:**
 - **Hourly Traffic Chart** — session volume across each hour of the day
@@ -251,11 +251,10 @@ In addition to the core tables, the data model includes:
 
 | Metric | Value |
 |---|---|
-| Revenue from Promoted Products | $389.8 |
+| Average Price of Promoted Products | $389.8 |
 | Promoted Purchase Events | 294 |
 | Average Discount Applied | 13.72% |
 | Promoted Conversion Rate | **18.62%** |
-| Non-Promoted Conversion Rate | 5.9% |
 
 **Visuals included:**
 - **Price Variation Chart** — distribution of product prices and how they relate to conversion
@@ -316,16 +315,13 @@ The report features a **navigation panel on the Cover Page**. Click any section 
 ### Slicers & Filters
 Each page is equipped with interactive slicers. You can filter the entire page by:
 - **Date range** — analyse specific time periods
-- **Category / Sub-category** — focus on a product segment
-- **Brand** — isolate brand-level performance
+- **Weekday / Weekend** — have a comparative Distinction in sales
+- **Brand** — No separate slicer, Visual level slicer is present
 - **Channel** — compare acquisition sources
 - **State** — regional analysis
 
 ### Field Parameters
 Several visuals use **dynamic field parameters**, allowing you to switch the axis dimension without changing the visual. Look for dropdown controls above charts labelled `Time`, `Categories`, or `Parameter` to toggle between dimensions.
-
-### Cross-Filtering
-All visuals on a page are cross-filtered. Clicking on a bar, segment, or data point in one visual will automatically filter all other visuals on the page to reflect that selection. Click the same element again or use the **Clear Filters** button to reset.
 
 ---
 
