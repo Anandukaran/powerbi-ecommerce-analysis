@@ -1,10 +1,20 @@
-Sales_Data_Ecommerce
-This dataset contains 160,000 records of user interaction events on an e-commerce platform throughout October 2019. 
-It captures each user's browsing and purchasing behaviour across Browser and App channels, including product details such as category, brand and price, 
-along with the user's location (US State) and an engagement score. It serves as the primary dataset for analysing sales trends, traffic patterns, and customer behaviour.
+## 📦 Datasets
 
-Promotions
-This dataset contains 61 records of promotional campaigns run during October 2019. 
-Each entry links a unique promotion ID to a specific product, the date the promotion was active,
-and the discount percentage offered. It is used alongside the sales data to evaluate the effectiveness 
-of promotions on purchasing decisions and overall revenue
+### 🛒 Sales_Data_Ecommerce.csv
+> 160,000 records · 18 columns · October 2019
+
+This dataset captures individual user interaction events on an e-commerce platform, 
+recording browsing and purchasing behaviour across **Browser** and **App** channels.
+It includes product details such as category, brand and price, along with the user's US
+State and an engagement score. This is the **primary dataset** driving the sales trends,
+traffic patterns, and customer behaviour analysis.
+
+---
+
+### 🏷️ Promotion.csv.xlsx
+> 61 records · 4 columns · October 2019
+
+This dataset contains promotional campaign records, linking each unique promotion ID to a 
+specific product, the date it was active, and the **discount percentage** offered. It is 
+used alongside the sales data to evaluate how promotions influenced purchasing decisions 
+and overall revenue performance.
