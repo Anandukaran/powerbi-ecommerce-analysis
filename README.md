@@ -35,7 +35,7 @@ This Power BI report analyses **160,000 customer interaction events** across an 
 - 💰 **$5.65M** total revenue generated across the analysis period
 - 👥 **144K unique users** with a **9.24% overall conversion rate**
 - ⏰ Peak traffic occurs at **3 PM on Fridays**, with sessions spiking **+57.5%** above average
-- 📣 Promotional campaigns drive a **18.62% conversion rate** vs. only **5.9%** for non-promoted products
+- 📣 Promotional campaigns drive a **18.62% conversion rate** vs. only **9.24%** overall conversion rate
 - 📱 **Apple** leads revenue at ~$3.1M; **Electronics** is the top category at ~$4.9M
 - 🔍 **Samsung** is the most-searched brand (22.14%); **Electronics** is the most-browsed category (65.07%)
 
