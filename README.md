@@ -168,7 +168,7 @@ In addition to the core tables, the data model includes:
 
 ---
 
-## Dashboard Pages
+## Report Pages
 
 ### 1. Cover Page
 
